@@ -11,6 +11,11 @@ The report can be exported as a CSV, Excel and a PDF
 The colours of the percentage bar change depending on how far the user is through the course (just thought it would be a nice visual)
 The dates are in readable UK English (sorry to our US counterparts, but it's annoying for us also!)
 
+<h2>Installation</h2>
+Copy the folder to report/ in your Moodle installation
+Or install via Git
+Or install via Moodle directly as an uploaded plugin
+
 <h2>License</h2>
 All GPL as it's Moodle
 
